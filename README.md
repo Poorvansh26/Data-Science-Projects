@@ -1,4 +1,5 @@
-                                                                                           Parkinson's Disease Detection Project
+Parkinson's Disease Detection Project
+
 Overview
 
  This repository contains code and resources for a data science project aimed at detecting Parkinson's Disease using machine learning techniques. The project utilizes a dataset containing various features extracted from biomedical voice measurements of individuals with and without Parkinson's Disease. The goal is to build a predictive model capable of accurately identifying the presence of Parkinson's Disease based on these features.
