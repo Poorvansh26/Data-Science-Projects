@@ -1,4 +1,4 @@
-Parkinson's Disease Detection Project
+**********Parkinson's Disease Detection Project**********
 
 Overview
 
