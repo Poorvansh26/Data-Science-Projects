@@ -10,7 +10,7 @@ The Dataset can be obtained from "https://www.kaggle.com/datasets/vikasukani/par
 
 This project is done using Google collab and the original file can be found on 'https://colab.research.google.com/drive/1b9Q0rnCmeCEXu0l_KtdbkNM8w_am4LqC'.
 
-💉**** PARKINSON'S DISEASE DETECTION ****💉
+****💉PARKINSON'S DISEASE DETECTION💉****
 
 ![ShakesGIF](https://github.com/Poorvansh26/Parkinson-s-Disease-Detection/assets/95774345/7408f815-69da-4b6b-a4a9-7131a9c9cc04)
 
@@ -19,7 +19,7 @@ This project is done using Google collab and the original file can be found on '
 This repository contains code and resources for a data science project aimed at detecting Parkinson's Disease using machine learning techniques.
 This project checks whether a person has Parkinson's Disease or not, and is based on Support Vector Machine Model (SVM).
 
-📓**** DESCRIPTION ****
+📓****DESCRIPTION****
 
 This project is based on the SVM Model and has several parts :
 
@@ -58,6 +58,6 @@ Standardizes the input data point using the same scaling parameters as the train
 Uses the trained model to predict whether the individual represented by the input data has Parkinson's disease.
 Prints the prediction result.
 
-
+****DATASET****
 
 
