@@ -16,12 +16,16 @@ This project is done using Google collab and the original file can be found on '
 
 ![YesNoGIF](https://github.com/Poorvansh26/Parkinson-s-Disease-Detection/assets/95774345/dbdd5ad2-eb5d-4ddf-af81-637eb6f31d08)
 
-This repository contains code and resources for a data science project aimed at **detecting Parkinson's Disease** using machine learning techniques.
+
+This repository contains code and resources for a data science project aimed at "**detecting Parkinson's Disease**" using machine learning techniques.
 This project checks whether a person has Parkinson's Disease or not, and is based on Support Vector Machine Model (SVM).
+
+
 
 ****📓 DESCRIPTION 📓****
 
 This project is based on the SVM Model and has several parts :
+
 
 1. Data Loading and Exploration:
 
@@ -30,26 +34,32 @@ This project is based on the SVM Model and has several parts :
 * Provides descriptive statistics to understand the distribution of data.
 * Counts the occurrences of each class label in the dataset.
 
+
 2. Data Preparation:
 
 * Separates features from the target variable.
 * Drops irrelevant columns ('name') from the feature set.
 
+
 3. Data Splitting:
 
 * Splits the dataset into training and testing sets.
+
 
 4. Data Standardization:
 
 * Standardizes the features to have a mean of 0 and a standard deviation of 1.
 
+
 5. Model Training:
 
 * Trains a Support Vector Machine (SVM) classifier with a linear kernel on the standardized training data.
 
+
 6. Model Evaluation:
 
 * Evaluates the trained model's performance on both the training and testing datasets using accuracy score.
+
 
 7. Prediction:
 
@@ -57,6 +67,8 @@ This project is based on the SVM Model and has several parts :
 * Standardizes the input data point using the same scaling parameters as the training data.
 * Uses the trained model to predict whether the individual represented by the input data has Parkinson's disease.
 * Prints the prediction result.
+
+
 
 ****⌛ DATASET ⌛****
 
