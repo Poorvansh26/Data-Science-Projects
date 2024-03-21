@@ -12,9 +12,10 @@ This project is done using Google collab and the original file can be found on '
 
 💉**** PARKINSON'S DISEASE DETECTION ****💉
 
-![ShakesGIF](https://github.com/Poorvansh26/Parkinson-s-Disease-Detection/assets/95774345/7408f815-69da-4b6b-a4a9-7131a9c9cc04)
+![ShakesGIF](https://github.com/Poorvansh26/Parkinson-s-Disease-Detection/assets/95774345/7408f815-69da-4b6b-a4a9-7131a9c9cc04)![YesNoGIF](https://github.com/Poorvansh26/Parkinson-s-Disease-Detection/assets/95774345/dbdd5ad2-eb5d-4ddf-af81-637eb6f31d08)
 
 This repository contains code and resources for a data science project aimed at detecting Parkinson's Disease using machine learning techniques.
+This project checks whether a person has Parkinson's Disease or not, and is based on Support Vector Machine Model (SVM).
 
 📓**** DESCRIPTION ****
 
