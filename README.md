@@ -1,4 +1,4 @@
-**********Parkinson's Disease Detection Project*********
+*********Parkinson's Disease Detection Project*********
 
 Overview
 
@@ -26,16 +26,16 @@ This project checks whether a person has Parkinson's Disease or not, and is base
 ****📓 DESCRIPTION 📓****
 
 This project is based on the SVM Model and has several parts :
-
-
+    
+    
 1. Data Loading and Exploration:
-
+           
 * Loads a dataset from a CSV file named 'parkinsons.csv' into a DataFrame.
 * Displays basic information about the dataset such as its shape, data types, and missing values.
 * Provides descriptive statistics to understand the distribution of data.
 * Counts the occurrences of each class label in the dataset.
 
-
+    
 2. Data Preparation:
 
 * Separates features from the target variable.
@@ -46,30 +46,30 @@ This project is based on the SVM Model and has several parts :
 
 * Splits the dataset into training and testing sets.
 
-
+              
 4. Data Standardization:
 
 * Standardizes the features to have a mean of 0 and a standard deviation of 1.
 
-
+                     
 5. Model Training:
 
 * Trains a Support Vector Machine (SVM) classifier with a linear kernel on the standardized training data.
 
-
+     
 6. Model Evaluation:
 
 * Evaluates the trained model's performance on both the training and testing datasets using accuracy score.
 
 
-7. Prediction:
-
+7. Prediction:    
+       
 * Constructs an input data point for prediction.
 * Standardizes the input data point using the same scaling parameters as the training data.
 * Uses the trained model to predict whether the individual represented by the input data has Parkinson's disease.
 * Prints the prediction result.
 
-
+                          
 
 ****⌛ DATASET ⌛****
 
